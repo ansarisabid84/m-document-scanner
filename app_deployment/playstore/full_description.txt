@@ -1,0 +1,60 @@
+Document Scanner turns your phone into a fast, private scanner. Scan paper documents, receipts, notes and forms into clean, searchable PDFs, all on your device, with no account, no ads and no uploads.
+
+PRIVATE BY DESIGN
+• No sign-up or account
+• No ads, no analytics, no tracking
+• Your scans never leave your phone unless you choose to share or export them
+• Works fully offline, even in airplane mode
+
+SCAN IN SECONDS
+• Live camera preview with automatic edge detection
+• Auto-capture when you hold steady, or tap the shutter yourself
+• Perspective correction straightens tilted pages
+• Scan many pages in a row, then review them all
+• Torch support for dim rooms
+• Import photos, images and PDFs (including password-protected PDFs)
+
+EDIT AND ENHANCE
+• Drag the corners to crop exactly where you want
+• Filters: Original, Auto, Color, Grayscale and Black & White
+• Adjust brightness and contrast
+• Rotate pages, undo changes, and always keep the original capture
+
+SEARCHABLE TEXT (OCR)
+• Recognise text on your device. English is built in, and more languages can be downloaded
+• Search inside all your documents by title, tag or the text on the page
+• Export searchable PDFs so you can search and copy text in other apps
+
+SIGN, MARK UP AND REDACT
+• Draw, highlight, add text, and stamp the date
+• Save a signature and reuse it
+• Redact sensitive details. Redaction is permanently burned into exports
+
+STAY ORGANISED
+• Multi-page documents with drag-to-reorder
+• Folders with colours and icons, tags and favourites
+• Merge documents, split pages out, rename and duplicate
+• Sort, filter and bulk-select in the library
+• Trash with undo and a retention period you control
+
+EXPORT AND SHARE
+• PDF, JPEG or PNG
+• Page sizes: fit to scan, A4, Letter or Legal
+• Choose quality (Small, Balanced, High) and colour mode
+• Pick page ranges and preview the file size before exporting
+• No watermarks, ever
+
+KEEP IT SAFE
+• Optional app lock with a PIN, fingerprint or face unlock
+• Contents hidden in the app switcher
+• Encrypted backups (AES-256) protected by a password only you know
+• Restore a backup by merging with, or replacing, your current documents
+
+Great for receipts, invoices, contracts, ID copies, school notes, homework, forms and everyday paperwork. Everyone in the family can use it. There are no accounts, ads or purchases to worry about.
+
+PERMISSIONS
+• Camera: used only on the scan screen to capture your documents
+• Photos: only the images you pick through the system picker
+• Biometrics: optional, only if you turn on app lock
+
+Document Scanner is built to do one job well: keep your paperwork digital, searchable and private.
